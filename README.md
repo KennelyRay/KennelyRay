@@ -61,12 +61,12 @@ const kennely = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KennelyRay&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KennelyRay&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Kennely's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=KennelyRay&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=KennelyRay&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Kennely's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KennelyRay&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennelyRay&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KennelyRay&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=KennelyRay&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 </picture>
 
 <picture>
@@ -74,7 +74,7 @@ const kennely = {
   <img src="https://streak-stats.demolab.com?user=KennelyRay&hide_border=true" alt="GitHub streak" />
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KennelyRay&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=KennelyRay&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
@@ -100,12 +100,12 @@ const kennely = {
 | | Chapter | What happened |
 |:--:|:--|:--|
 | 🌱 | **Freshman Year** | Enrolled as an **Information Technology** major. Wrote my first lines of code, broke everything, and got hooked on the feeling of fixing it. |
-| 📚 | **The Fundamentals** | Learned the basics the hard way — logic, algorithms, and how a computer actually thinks. |
+| 📚 | **The Fundamentals** | Learned the basics the hard way: logic, algorithms, and how a computer actually thinks. |
 | 📱 | **App Development** | Built my first real applications and learned that shipping something *usable* is a different skill from writing code that runs. |
 | 🌐 | **Network Fundamentals** | Dug into how machines actually talk to each other. Made every "it works on my machine" bug make a lot more sense. |
-| 📊 | **Data Analytics** | Learned to make data tell a story — and gained a healthy respect for a well-designed database. |
+| 📊 | **Data Analytics** | Learned to make data tell a story, and gained a healthy respect for a well-designed database. |
 | 💻 | **Web Development** | Out of everything I tried, this is the one that stuck. HTML and CSS turned into JavaScript, which turned into React, Next.js, and full-stack builds. |
-| 🎯 | **Today** | Building modern web apps end to end — polished frontends, solid APIs, and databases that don't fall over. Still learning, every single day. |
+| 🎯 | **Today** | Building modern web apps end to end: polished frontends, solid APIs, and databases that don't fall over. Still learning, every single day. |
 
 </details>
 
@@ -128,15 +128,11 @@ const kennely = {
   <a href="mailto:krbucang@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Replace the # below with your actual profile links -->
-  <a href="#">
+  <a href="https://www.linkedin.com/in/kennely-ray-bucang-b432a710b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-6c8eef?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.instagram.com/kennn.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
